@@ -1,6 +1,7 @@
 # MY-PORTFOLIO
      By Babra Kiyai
-  
+  ![portfolio](https://user-images.githubusercontent.com/91152578/140717861-e5be53c6-89d6-424d-b91b-3ea506100ceb.jpg)
+
 DESCRIPTION
 
 As a programmer this is my portfolio resume. 
