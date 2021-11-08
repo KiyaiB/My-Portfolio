@@ -13,7 +13,9 @@ SETUP/INSTALLATION REQUIREMENTS
      git clone git@github.com:KiyaiB/My-Portfolio.git
      
    -Open the project on vs code or your desired editor.
+   
    -Open the project on live Server.
+   
 TECHNOLOGIES USED
 
   HTML
