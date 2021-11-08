@@ -6,7 +6,7 @@
 DESCRIPTION
 
 As a programmer this is my portfolio resume. 
-it is a showcase that brings to light my developing skills and to confidently prove that i can do what I talked about in my resume.
+It is a showcase that brings to light my developing skills and to confidently prove that I can do what I talked about in my resume.
 
 SETUP/INSTALLATION REQUIREMENTS
 
