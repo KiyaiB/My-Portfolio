@@ -951,3 +951,10 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+.about1{
+  text-align: right;
+  padding: 10px; 
+  border: 2px;
+  float:right;
+}
