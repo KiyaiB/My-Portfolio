@@ -953,8 +953,11 @@ footer .credits a {
 }
 
 .about1{
-  text-align: right;
+  text-align: center;
   padding: 10px; 
   border: 2px;
-  float:right;
+}
+
+img{
+  border-radius: 40%;
 }
